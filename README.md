@@ -1,2 +1,2 @@
-# nlp_project
-Using word2vec, google perspective api, IBM Watson, LDA Topic Modelling and torchmoji for sentiment analysis
+# NLP Project
+The study employed Latent Dirichlet Allocation (LDA) for topic modeling on Facebook posts from the Ministry of Health (MOH) and Ministry of Education (MOE). Eight dominant topics were identified, with the most prevalent being imported cases and vaccination. Sentiment analysis was performed using LSTM models, and BERT. It revealed a predominance of negative sentiment across all platforms, particularly in response to key COVID-19 related events.
